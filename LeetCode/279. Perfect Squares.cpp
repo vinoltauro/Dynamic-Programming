@@ -1,5 +1,3 @@
-// LeetCode 279
-
 // Memoization 
 class Solution {
 public:
