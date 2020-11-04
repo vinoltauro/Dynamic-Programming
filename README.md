@@ -1,2 +1,2 @@
 # Dynamic-Programming
-Solution to dynamic programming questions.
+Solutions to dynamic programming questions.
